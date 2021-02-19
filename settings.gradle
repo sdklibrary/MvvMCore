@@ -1,0 +1,3 @@
+include ':libMvvMCore'
+include ':app'
+rootProject.name = "MvvMCore"
